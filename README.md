@@ -1,5 +1,9 @@
-# tirthankar-44.github.io
+# EasyPG
 
-EasyPG: Static look of a website for finding PGs
-Click on the link to check it out!
+Static look of a website for finding PGs(for students).
+
+
+Click on the link below to check it out!
+
+
 https://tirthankar-44.github.io/
